@@ -1,0 +1,17 @@
+SET ThousandSep='.';
+SET DecimalSep=',';
+SET MoneyThousandSep='.';
+SET MoneyDecimalSep=',';
+SET MoneyFormat='€ #.##0,00;€ -#.##0,00';
+SET TimeFormat='hh:mm:ss';
+SET DateFormat='D-M-YYYY';
+SET TimestampFormat='D-M-YYYY hh:mm:ss[.fff]';
+SET FirstWeekDay=0;
+SET BrokenWeeks=0;
+SET ReferenceDay=4;
+SET FirstMonthOfYear=1;
+SET CollationLocale='nl-NL';
+SET MonthNames='jan;feb;mrt;apr;mei;jun;jul;aug;sep;okt;nov;dec';
+SET LongMonthNames='januari;februari;maart;april;mei;juni;juli;augustus;september;oktober;november;december';
+SET DayNames='ma;di;wo;do;vr;za;zo';
+SET LongDayNames='maandag;dinsdag;woensdag;donderdag;vrijdag;zaterdag;zondag';
